@@ -1,0 +1,18 @@
+.logo {
+    width: 10%;
+    height: 10%;
+    margin-left: -50%;
+}
+
+.chip-navbar{
+    background-color: "#282c34";
+}
+
+.nav-link{
+    color: white;
+    font-size: 15px;
+}
+
+.brand {
+    margin-top: 9px;
+}
